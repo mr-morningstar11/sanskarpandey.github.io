@@ -1,0 +1,46 @@
+title: Sanskar Pandey
+description: >
+  Information Security student with interests in AppSec, Cyber Security,
+  Data Protection, and GRC. Actively seeking Winter/Summer Infosec internships.
+author: Sanskar Pandey
+
+email: morningstarsanskar22@gmail.com
+phone: "+91 7858043347"
+location: Vellore, Tamil Nadu, India
+
+linkedin_username: your-linkedin-username
+github_username: your-github-username
+
+theme: minima
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+lang: en
+timezone: Asia/Kolkata
+
+header_pages:
+  - README.md
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+
+resume:
+  role: "Information Security Student"
+  interests:
+    - Application Security
+    - Cyber Security
+    - Data Protection
+    - Governance, Risk & Compliance (GRC)
+  availability: "Winter / Summer Internship"
