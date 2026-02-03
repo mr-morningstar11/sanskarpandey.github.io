@@ -2,7 +2,7 @@
 
 📍 Vellore, Tamil Nadu, India  
 📧 [morningstarsanskar22@gmail.com](mailto:morningstarsanskar22@gmail.com)  
-📞 (tel:+917858043347)[+91 7858043347]   
+📞 +91 7858043347 
 🔗 LinkedIn: (www.linkedin.com/in/sanskar-pandey-29ba5a2b9)
 
 ---
